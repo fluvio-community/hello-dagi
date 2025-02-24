@@ -1,5 +1,5 @@
-# hello-dagi
-Hello dAGI - Decentralized Artificial General Intelligence
+# hello-dai
+Hello dAI - Decentralized Artificial Intelligence
 
 # idea
 What can we do with a blazing fast distrbitued streaming platform, real time data markets from Solana, and Generative AI?
