@@ -1,4 +1,4 @@
-# hello-dai
+# hello-dAI
 Hello dAI - Decentralized Artificial Intelligence
 
 # idea
